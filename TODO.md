@@ -10,3 +10,5 @@ Elaborado como proposta educacional para alunos dos cursos de computação.
 * Revisar o arquivo README.md
     * Adicionar seção para processo de compilação
     * Adicionar seção para processo de executar o projeto
+    * Adicionar badges
+    * Adicionar print screen da execução do projeto
